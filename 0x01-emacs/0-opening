@@ -1,4 +1,4 @@
-emacs &
-M-x find-
+C-x 3
 C-x C-f
 C-x C-r
+M-x find-
